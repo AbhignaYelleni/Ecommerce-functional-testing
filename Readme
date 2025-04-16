@@ -1,0 +1,27 @@
+# E-commerce Website Functional Testing
+
+This project documents the manual testing process conducted on an e-commerce web application. The testing included functional, UI, and regression testing using tools like TestRail, JIRA, and Chrome DevTools.
+
+## Tools Used
+- TestRail
+- JIRA
+- Chrome DevTools
+- Google Sheets / Excel
+
+## Test Scenarios Covered
+- User Login/Logout
+- Product Search
+- Add to Cart
+- Checkout Process
+- UI Consistency
+- Responsive Design
+
+## Defect Management
+Defects were logged and tracked in JIRA. Screenshots and descriptions were attached for better clarity.
+
+## Folder Structure
+- **TestPlan.md**: High-level test plan
+- **TestCases.xlsx**: List of test cases
+- **DefectLog_JIRA.csv**: Sample JIRA defect logs
+- **Screenshots/**: Chrome DevTools & UI bug evidence
+- **TestRail_TestRun_Sample.pdf**: Sample test run report
