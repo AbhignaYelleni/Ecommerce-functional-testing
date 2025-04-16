@@ -1,0 +1,3 @@
+ID,Summary,Priority,Status,Steps to Reproduce,Expected Result,Actual Result,Date Reported
+BUG-101,Login fails with special characters,High,Open,"1. Open login 2. Enter 'user@#'","Should login","Shows error",2024-12-15
+BUG-102,Cart does not update count,Medium,Closed,"1. Add item to cart","Cart count updates","No change in cart icon",2024-12-16
