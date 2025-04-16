@@ -1,0 +1,6 @@
+Test Case ID,Title,Steps,Expected Result,Status
+TC001,Login with valid data,"Enter valid email & password, click login","User is redirected to home",Pass
+TC002,Search for product,"Enter keyword in search bar, click search","Product list is shown",Pass
+TC003,Add to cart,"Click 'Add to Cart' on product page","Product appears in cart",Pass
+TC004,Checkout flow,"Go to cart → click Checkout → enter details → place order","Order confirmation message",Pass
+TC005,Logout,"Click on user menu → Logout","Redirected to login page",Pass
