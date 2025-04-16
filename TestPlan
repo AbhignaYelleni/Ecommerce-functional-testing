@@ -1,0 +1,31 @@
+# Test Plan - E-commerce Website
+
+## Objective
+To validate the core functionality and usability of the e-commerce website.
+
+## Scope
+- Functional Testing
+- UI Testing
+- Regression Testing
+
+## Testing Types
+- Manual Functional Testing
+- UI Validation
+- Smoke Testing
+- Regression Testing
+
+## Test Environment
+- Browser: Chrome
+- OS: Windows 11
+- Tools: TestRail, JIRA, Chrome DevTools
+
+## Features Tested
+- Login / Logout
+- Product Search
+- Add to Cart
+- Checkout
+- Order Confirmation
+
+## Roles & Responsibilities
+- Test Lead: Abhigna Yelleni
+- Reporting: Defects logged in JIRA
